@@ -11,12 +11,12 @@
 
 #### 🚀 Ejercicios
 
-1. Dadas las siguientes expresiones en sintaxis concreta de nuestro lenguaje **MiniLisp** (a) obtener su sintaxis abstracta, (b) evaluarlas usando las reglas de semántica natural y (c) evaluarlas usando las reglas de semántica estructural. Todas las reglas podrán consultar en [Nota de Clase 6](https://lambdasspace.github.io/LDP/notas/ldpn06.pdf).
+1. Dadas las siguientes expresiones en sintaxis concreta de nuestro lenguaje **MiniLisp** (a) obtener su sintaxis abstracta, (b) evaluarlas usando las reglas de semántica natural y (c) evaluarlas usando las reglas de semántica estructural. Todas las reglas podrán consultar en la [Nota de Clase 6](https://lambdasspace.github.io/LDP/notas/ldpn06.pdf).
 
    - `(+ 18 (- 17 (+ 40 5)))`
    - `(- (+ 20 3) (- -18 (+ 50 20)))`
 
-2. Como segundo ejercicio deberán extener la batería de operaciones de **MiniLisp**, para ello deberán (a) modificar la gramática libre de contexto en notación EBNF añadiendo las nuevas construcciones del lenguaje, (b) modificar las reglas de sintaxis abstracta para considerar los nuevos constructores y finalmente (c) extender las reglas de semántica natural y estructural.
+2. Como segundo ejercicio deberán extener la batería de operaciones de **MiniLisp**, para ello deberán (a) dar la gramática libre de contexto modificada (en notación EBNF) añadiendo las nuevas construcciones del lenguaje, (b) modificar las reglas de sintaxis abstracta para considerar los nuevos constructores y finalmente (c) extender las reglas de semántica natural y estructural. En los tres casos, deberás usar la notación formal que vimos en clase.
 
    - Especificar un nuevo constructor `*` para la multiplicación binaria de expresiones aritméticas. Por ejemplo:
      
