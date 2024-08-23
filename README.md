@@ -3,7 +3,7 @@
 
 #### 📝 Instrucciones
 
-- El semanal podrá resolverse **en parejas**
+- El semanal podrá resolverse **en equipos de 3**
 - Se deberá entregar por medio de GitHub Classroom a más tardar a las **23:59:59 del martes 27 de agosto de 2024**. **No habrán prórrogas**. 
 - Cualquier duda podrá extenarse en la clase, por correo o por medio de Telegram en un horario de 9:00 a 18:00.
 - Deberá entregarse en formato LaTeX (pueden consultar el siguiente paquete para generar reglas de inferencia: [`bussproofs.sty`](https://ctan.math.illinois.edu/macros/latex/contrib/bussproofs/BussGuide2.pdf))
